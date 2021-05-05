@@ -1,0 +1,5 @@
+.reactToastifyContainer {
+  :global {
+    @import "../node_modules/react-toastify/dist/ReactToastify";
+  }
+}
